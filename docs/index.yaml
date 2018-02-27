@@ -2,11 +2,11 @@ apiVersion: v1
 entries:
   mychart:
   - apiVersion: v1
-    created: 2018-02-27T15:21:41.181000718Z
+    created: 2018-02-27T16:41:36.032220259Z
     description: A Helm chart for Kubernetes
     digest: ae8d7138002d432014dc8638ec37202823e9207445caf08a660d154b26e936ea
     name: mychart
     urls:
-    - https://manokaran3529.github.com/hlmcharts/mychart-0.1.0.tgz
+    - https://github.com/manokaran3529/hlmcharts/mychart-0.1.0.tgz
     version: 0.1.0
-generated: 2018-02-27T15:21:41.180283805Z
+generated: 2018-02-27T16:41:36.031487076Z
